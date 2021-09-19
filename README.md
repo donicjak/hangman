@@ -1,0 +1,1 @@
+A small project to test out my python skills. A hangman, where a computer randoms a word and player has to guess a letter.
